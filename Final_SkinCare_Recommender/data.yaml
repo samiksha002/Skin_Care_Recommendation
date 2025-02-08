@@ -1,0 +1,7 @@
+train: C:/Users/Samiksha Bhatia/Acne_gpu/myvenv/Data3/train/images
+val: C:/Users/Samiksha Bhatia/Acne_gpu/myvenv/Data3/valid/images
+test: C:/Users/Samiksha Bhatia/Acne_gpu/myvenv/Data3/test/images
+
+nc: 6
+names: ['blackheads', 'dark spot', 'nodules', 'papules', 'pustules', 'whiteheads']
+
